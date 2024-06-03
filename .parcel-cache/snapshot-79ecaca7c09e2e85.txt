@@ -48,7 +48,7 @@
 103C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\public\group@2x.png133618698821323282 0
 93C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\README.md133618698841593005 0
 125C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\node_modules\semver\functions\rcompare.js133618720599047747 0
-93C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\index.css133618698840470096 0
+93C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\index.css133618754481524374 0
 126C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\node_modules\caniuse-lite\data\features.js133618720615986191 0
 124C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\node_modules\source-map-js\lib\base64.js133618720593180635 0
 158C:\Users\PRANSHU AGRAHARI\Downloads\App Landing Page Finance Bank Money (Community)\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133618720670739910 0
