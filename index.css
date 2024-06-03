@@ -833,7 +833,6 @@
 .cardno {
   font-weight: 500;
   flex-shrink: 0;
-  debug_commit: bf4bc93;
 }
 .valid-thru {
   line-height: 5px;
@@ -862,7 +861,6 @@
   justify-content: flex-start;
   gap: 5.1px;
   flex-shrink: 0;
-  debug_commit: bf4bc93;
   font-size: 4.8px;
 }
 .cardno-parent {
@@ -1133,7 +1131,6 @@
   justify-content: flex-start;
   gap: var(--gap-9xs);
   flex-shrink: 0;
-  debug_commit: bf4bc93;
   max-width: 100%;
 }
 .rectangle-div {
@@ -1426,7 +1423,7 @@
   flex-wrap: wrap;
   gap: var(--gap-xl);
   flex-shrink: 0;
-  debug_commit: bf4bc93;
+
   z-index: 8;
   font-size: var(--font-size-9xl);
   color: var(--color-white);
